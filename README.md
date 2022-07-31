@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![/images/Screenshot-Work]
+![screnshot](https://github.com/ejionaut/Product-preview-card-component/blob/main/images/Screenshot-Work.png)
 
 ### Links
 
